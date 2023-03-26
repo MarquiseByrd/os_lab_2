@@ -1,11 +1,10 @@
+//Marquise Byrd @02939181
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
 #include <time.h>
 #include <unistd.h>
 #define   MAX_COUNT  2
-// <Author> Julian Forbes @julianf17
-// collaborated with Kyndall Jones and Zoe Carter
 void ChildProcess(int);
 void ParentProcess(int, pid_t);
 
